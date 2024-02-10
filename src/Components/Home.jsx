@@ -4,32 +4,32 @@ import { Link } from 'react-router-dom';
 function Home (){
     const images = [
         {
-            image: "/images/books.jpg",
+            image: "/images/books-min.jpg",
             title: "Books",
             description: "Where you can get any course related book or pdf"
         },
         {
-            image: "/images/notes.jpg",
+            image: "/images/notes-min.jpg",
             title: "Notes",
             description: "You can write your various class notes in this section"
         },
         {
-            image: "/images/dictionary.jpg",
+            image: "/images/dictionary-min.jpg",
             title: "Dictionary",
             description: "You can search for any word in the dictionary"
         },
         {
-            image: "/images/conversion.jpg",
+            image: "/images/conversion-min.jpg",
             title: "Conversion",
             description: "You can convert any unit to another unit"
         },
         {
-            image: "/images/todo.jpg",
+            image: "/images/todo-min.jpg",
             title: "Todo",
             description: "You can create your todo list here"
         },
         {
-            image: "/images/youtube.jpg",
+            image: "/images/youtube-min.jpg",
             title: "Youtube",
             description: "You can watch any course related youtube video here"
         }
